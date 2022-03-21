@@ -1,4 +1,4 @@
-# Cadastro-api
+# api-cadastro-rest
 #### API RESTful para cadastro
 
 Este é um aplicativo back-end que possui uma API RESTful. As requisições funcionam com JSON (entrada e saída). 
@@ -12,7 +12,7 @@ Este é um aplicativo back-end que possui uma API RESTful. As requisições func
 - Continuous Integration - Heroku integrado com o GitHub
 
 É possível acessar a aplicação rodando no Heroku em:
-https://cadastro-api.herokuapp.com
+https://api-cadastro-rest.herokuapp.com
 
 Para rodar a aplicação basta fazer o clone dela e rodar o seguinte comando:
 ```
